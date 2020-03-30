@@ -1,27 +1,4 @@
 
-Argentina
-Archivo:De.la.rua.ogv
-El presidente Fernando de la Rúa declara el estado de sitio por cadena nacional la noche del 19 de diciembre de 2001.
-El estado de sitio, junto con la intervención federal, los decretos de necesidad y urgencia (DNU) y la delegación legislativa, 
-conforman los denominados institutos de emergencia, consagrados en la Constitución de la Nación Argentina. El estado de sitio es 
-considerado como una medida excepcional y extraordinaria cuya declaración compete a los poderes políticos del gobierno federal, 
-dictada en circunstancias de extrema gravedad para el orden público, la seguridad común y la paz interior, que pueden ser generadas
- tanto por conmoción interna (desórdenes domésticos de gravedad, crisis económicas, sedición o invasión interprovincial, hostilidades 
-interprovinciales calificadas de guerra civil) como por ataque exterior (invasión por un Estado extranjero o cualquier otra fuerza hostil foránea). 
-En el primer caso, corresponde al Poder Legislativo la declaración del estado de sitio; sólo le corresponderá al Poder Ejecutivo Nacional declararlo,
- emitiendo un reglamento o decreto de necesidad y urgencia, cuando el Congreso de la Nación Argentina se encuentre en receso; no obstante, una vez 
-que éste se haya reunido o fuera convocado por el mismo presidente, aprobará o suspenderá la medida ejecutiva adoptada, por ser atribución constitucional 
-exclusiva de aquel cuerpo, debiéndose manifestar su voluntad expresamente. En la conmoción exterior, será el Poder Ejecutivo el encargado de declarar el 
-estado de sitio, con acuerdo senatorial, en uno o en varios puntos del territorio de la Nación, supuestos estos últimos en los cuales las garantías 
-constitucionales se suspenderán sólo en donde exista perturbación del orden, sin propagarse a territorios no afectados por él.
-Sus efectos principales se registran en un acrecentamiento de poder en uno o varios órganos del poder federal, respetando sus competencias relativas 
-y, en consecuencia, el principio básico y general de la división de poderes. Cor-respectivamente, produce la suspensión temporal y limitada sólo
- de aquellas garantías que resultasen inadecuadas al orden constitucional que con la vigencia del estado de sitio se busca preservar.
- Por esa razón, todas las medidas implementadas que no fuera razonablemente adecuadas a la gravedad de las circunstancias, serán consideradas
- por los jueces inconstitucionales, aceptando el control de irracionabilidad de dichas medidas, toda vez que la emergencia se gesta dentro del orden
- constitucional, sin corromperlo ni destruirlo. El estado de sitio durará hasta que las circunstancias de gravedad que hicieron necesaria su declaración 
-hayan cesado; en otras palabras: cuando la emergencia haya concluido, la vigencia del estado de sitio no tendrá justificación alguna. De ahí se sigue que, 
-una vez que ya no se encuentre en vigor, las garantías constitucionales afectadas durante ese período sean restablecidas.
 
 
 Bolivia
@@ -37,3 +14,17 @@ Aunque es el Presidente de Bolivia el que puede declarar el Estado de Excepción,
  Asamblea Legislativa Plurinacional la que en un plazo de 72 horas (3 días) deberá aprobar o no, la entrada en vigencia del estado de excepción.
 Una vez concluido el estado de excepción, no podrá declararse otro estado de excepción hasta dentro del siguiente año, salvo la autorización de 
 la Asamblea Legislativa Plurinacional previamente.
+
+COVID-19nota 2? (acrónimo del inglés coronavirus disease 2019),4? también conocida como enfermedad por coronavirus3? o, incorrectamente, 
+como neumonía por coronavirus,nota 1? es una enfermedad infecciosa causada por el virus SARS-CoV-2.9?10? Se detectó por primera vez en la 
+ciudad china de Wuhan (provincia de Hubei) en diciembre de 2019.11?12? Habiendo llegado a más de 100 territorios, el 11 de marzo de 2020 la 
+Organización Mundial de la Salud la declaró pandemia.13?
+Produce síntomas similares a los de la gripe, entre los que se incluyen fiebre, tos, disnea, mialgia y fatiga.14?15? También se ha observado
+ la pérdida súbita del olfato y el gusto (sin que la mucosidad fuese la causa).16? En casos graves se caracteriza por producir neumonía, síndrome
+ de dificultad respiratoria aguda,17? sepsis18? y choque séptico que conduce a alrededor del 3 % de los infectados a la muerte.[cita requerida] 
+No existe tratamiento específico; las medidas terapéuticas principales consisten en aliviar los síntomas y mantener las funciones vitales.14?
+Las rutas de transmisión de persona a persona del SARS-CoV-2 incluyen transmisión directa mediante pequeñas gotas —microgotas de Flügge19?— 
+que se emiten al hablar, estornudar, toser o espirar y transmisión por contacto de este con las membranas mucosas orales, nasales y oculares.20?
+Los síntomas aparecen entre (2) dos y (14) catorce días, con un promedio de (5) cinco días después de la exposición al virus.21?22?23?24?
+ La transmisión se puede prevenir con el lavado de manos frecuente, el uso de mascarillas, cubriendo la boca al toser o estornudar, 
+ya sea con la sangradura (parte hundida del brazo opuesta al codo) o con un pañuelo; y evitando el contacto cercano con otras personas.25?15?
